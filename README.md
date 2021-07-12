@@ -1,0 +1,2 @@
+# Reading-and-Interpreting-Statistical-Chart
+Statistical charts are used to represent statistical data in visual form. One of the most used statistical charts is the Bar chart which presents categorical data with rectangular bars of heights proportional to the values that they represent. Pie charts are also used Sometimes to illustrate numerical proportions. In pie charts each proportion is represented by a slice from the circular shape. 
